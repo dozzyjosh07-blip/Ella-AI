@@ -1,0 +1,14 @@
+# Copy this file to local.properties and add your API keys
+# This file is NOT tracked in version control
+
+# Gemini API Key - https://makersuite.google.com/app/apikey
+GEMINI_API_KEY=your-gemini-api-key-here
+
+# Picovoice Access Key - https://console.picovoice.ai/
+PICOVOICE_ACCESS_KEY=your-picovoice-access-key-here
+
+# Google Search API Key - https://developers.google.com/custom-search/v1/overview
+GOOGLE_SEARCH_API_KEY=your-google-search-api-key-here
+
+# Google Custom Search Engine ID - https://cse.google.com/cse/create
+GOOGLE_SEARCH_CX=your-search-engine-id-here
